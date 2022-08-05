@@ -1,0 +1,69 @@
+body{
+    background-color: white;
+    text-align: center;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    /* height: 30px; */
+    background-color: grey;
+    position: fixed;
+    width: 100%;
+    padding: 15px 0px;
+}
+nav a{
+    margin-right: 15px;
+    color: white;
+    text-decoration: none;
+
+
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 150px;
+    border-radius: 10px;
+}
+hr{
+    width: 80px;
+}
+
+h2{
+    color: rgba(19, 170, 120, 0.948);
+}
+h3{
+    color: rgba(19, 166, 117, 0.884);
+}
+.footer{
+    background-color: rgba(4, 0, 255, 0.247);
+}
+.contact .fa-whatsapp {
+    margin-right: 15px;
+    color: green;
+    text-decoration: none
+
+   
+}
+.contact .fa-envelope {
+    color: red;
+    text-decoration: none
+   
+}
+
+.introduction{
+    background-color: rgba(0, 128, 107, 0.493);
+}
+
+.right {
+    position: relative;
+    right: 200px;
+    top: 40px
+}
+
+.left {
+    position: relative;
+    left: 180px;
+    top: 80px
+}
